@@ -6,7 +6,7 @@ class Connection
     private $host = 'localhost';
     private $username = 'root';
     private $password = '';
-    private $dbname = 'intranetdbv2';
+    private $dbname = 'pagination_db';
 
     protected $conn;
 
